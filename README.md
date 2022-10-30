@@ -11,3 +11,5 @@ license: apache-2.0
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+[Dogs V Cats Classifier](https://huggingface.co/spaces/thliang01/Dogs-V-Cats-Classifier)
